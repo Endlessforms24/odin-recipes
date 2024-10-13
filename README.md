@@ -3,7 +3,7 @@
 Project Goal: create basic html recipe website to demonstrate the following skills: 
 
 
-1. create html files and populate with html boilerplate
+1. Create html files and populate with html boilerplate
 2. Add content (text, images)
 3. Format content (headings, strong and emphasised text, ordered and unordered lists)
 4. Link pages together using relative links
